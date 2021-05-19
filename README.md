@@ -1,2 +1,3 @@
-# requests_Python
-requests
+## requests_Python
+
+В данном репозитории представлены запросы в учебных целях
